@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "citypulse-786a6",
+          "appId": "1:590008968152:android:cddca2554083b366d1c8ad",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "citypulse-786a6",
+          "configurations": {
+            "android": "1:590008968152:android:cddca2554083b366d1c8ad",
+            "web": "1:590008968152:web:4410d7547fbf1ecdd1c8ad"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}
